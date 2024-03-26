@@ -1,10 +1,3 @@
-/* 
- *  CS 656 Fall 2023 Project: AWS S3 buckets V3.30
- *  Copyright (C) New Jersey Institute of Technology
- *  All rights reserved
- *
- *
- */
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.net.SocketAddress;
